@@ -4,7 +4,13 @@
 - 🔭 **Currently working on:** Machine Learning and Computer Vision projects  
 - 🌱 **Learning:** Advanced ML algorithms and optimization techniques  
 - 💬 **Ask me about:** Machine Learning, Computer Vision, or algorithmic problem-solving  
-- 🎯 **Hobbies:** Coding, skiing, and hicking  
+- 🎯 **Hobbies:** Coding, skiing, and hicking
+
+# Contact Me
+
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:listarovaaleksandra@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@listarova-lightblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@okkkkkkkkkkay)
+
 
 # 💻 Tech Stack:
 ## Languages
@@ -24,7 +30,7 @@
 ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-## 🌐 Other
+## Other
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 
 
