@@ -9,7 +9,7 @@
 # Contact Me
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:listarovaaleksandra@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@listarova-lightblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@okkkkkkkkkkay)
+[![Telegram](https://img.shields.io/badge/Telegram-@okkkkkkkkkkay-lightblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@okkkkkkkkkkay)
 
 
 # 💻 Tech Stack:
