@@ -9,7 +9,8 @@
 # Contact Me
 
 [![Email](https://img.shields.io/badge/Email-%2344475a?style=for-the-badge&logo=gmail&logoColor=%23bd93f9)](mailto:listarovaaleksandra@gmail.com)
-[![Telegram](https://img.shields.io/badge/@okkkkkkkkkkay-%23bd93f9?style=for-the-badge&logo=telegram&logoColor=%23ff79c6)](https://t.me/okkkkkkkkkkay)
+[![Telegram](https://img.shields.io/badge/@okkkkkkkkkkay-%2344475a?style=for-the-badge&logo=telegram&logoColor=%23bd93f9)](https://t.me/okkkkkkkkkkay)
+
 
 
 # 💻 Tech Stack:
