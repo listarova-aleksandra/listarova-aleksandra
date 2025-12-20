@@ -1,4 +1,4 @@
-## Hi, I'm Aleksandra!
+# Hi, I'm Aleksandra!
 
 - 🎓 **Education:** Applied Mathematics and Computer Science  
 - 🔭 **Currently working on:** Machine Learning and Computer Vision projects  
