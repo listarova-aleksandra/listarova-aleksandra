@@ -8,8 +8,8 @@
 
 # Contact Me
 
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:listarovaaleksandra@gmail.com)
-[![Telegram](https://img.shields.io/badge/Telegram-@okkkkkkkkkkay-lightblue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@okkkkkkkkkkay)
+[![Email](https://img.shields.io/badge/Email-%23bd93f9?style=for-the-badge&logo=gmail&logoColor=%23ff79c6)](mailto:listarovaaleksandra@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-@okkkkkkkkkkay-%23294DDB?style=for-the-badge&logo=telegram&logoColor=%23bd93f9)](https://t.me/okkkkkkkkkkay)
 
 
 # 💻 Tech Stack:
